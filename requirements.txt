@@ -1,0 +1,8 @@
+pyspark
+pandas
+faker
+tqdm
+plotly
+dash
+pyarrow
+fastparquet

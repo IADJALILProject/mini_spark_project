@@ -1,0 +1,168 @@
+[2025-04-04T14:21:34.676+0000] {processor.py:157} INFO - Started process (PID=21) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:21:34.691+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:21:34.693+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:21:34.692+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:21:35.053+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:21:35.327+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:21:35.325+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:21:35.716+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:21:35.716+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-03T00:00:00+00:00, run_after=2025-04-04T00:00:00+00:00
+[2025-04-04T14:21:36.461+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 1.819 seconds
+[2025-04-04T14:22:07.777+0000] {processor.py:157} INFO - Started process (PID=22) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:22:07.789+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:22:07.792+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:22:07.791+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:22:07.951+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:22:08.516+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:22:08.515+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:22:08.793+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:22:08.793+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-03T00:00:00+00:00, run_after=2025-04-04T00:00:00+00:00
+[2025-04-04T14:22:08.961+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 1.202 seconds
+[2025-04-04T14:22:40.338+0000] {processor.py:157} INFO - Started process (PID=23) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:22:40.345+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:22:40.351+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:22:40.351+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:22:40.416+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:22:40.488+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:22:40.488+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:22:40.558+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:22:40.557+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-03T00:00:00+00:00, run_after=2025-04-04T00:00:00+00:00
+[2025-04-04T14:22:40.740+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.408 seconds
+[2025-04-04T14:23:11.622+0000] {processor.py:157} INFO - Started process (PID=24) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:23:11.624+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:23:11.630+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:23:11.625+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:23:11.666+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:23:11.709+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:23:11.708+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:23:11.789+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:23:11.789+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-03T00:00:00+00:00, run_after=2025-04-04T00:00:00+00:00
+[2025-04-04T14:23:11.876+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.259 seconds
+[2025-04-04T14:23:42.017+0000] {processor.py:157} INFO - Started process (PID=25) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:23:42.020+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:23:42.022+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:23:42.022+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:23:42.056+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:23:42.113+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:23:42.113+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:23:42.149+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:23:42.148+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-03T00:00:00+00:00, run_after=2025-04-04T00:00:00+00:00
+[2025-04-04T14:23:42.224+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.215 seconds
+[2025-04-04T14:24:13.393+0000] {processor.py:157} INFO - Started process (PID=26) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:24:13.396+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:24:13.399+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:24:13.398+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:24:13.428+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:24:13.465+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:24:13.465+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:24:13.506+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:24:13.506+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-03T00:00:00+00:00, run_after=2025-04-04T00:00:00+00:00
+[2025-04-04T14:24:13.584+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.203 seconds
+[2025-04-04T14:24:44.292+0000] {processor.py:157} INFO - Started process (PID=27) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:24:44.294+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:24:44.295+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:24:44.295+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:24:44.322+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:24:44.354+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:24:44.354+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:24:44.390+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:24:44.390+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-03T00:00:00+00:00, run_after=2025-04-04T00:00:00+00:00
+[2025-04-04T14:24:44.467+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.178 seconds
+[2025-04-04T14:25:15.240+0000] {processor.py:157} INFO - Started process (PID=28) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:25:15.254+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:25:15.256+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:25:15.255+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:25:15.342+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:25:15.404+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:25:15.404+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:25:15.457+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:25:15.457+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-03T00:00:00+00:00, run_after=2025-04-04T00:00:00+00:00
+[2025-04-04T14:25:15.670+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.436 seconds
+[2025-04-04T14:25:45.996+0000] {processor.py:157} INFO - Started process (PID=29) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:25:46.006+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:25:46.010+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:25:46.009+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:25:46.149+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:25:46.363+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:25:46.363+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:25:46.559+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:25:46.559+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-03T00:00:00+00:00, run_after=2025-04-04T00:00:00+00:00
+[2025-04-04T14:25:46.951+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.982 seconds
+[2025-04-04T14:26:17.818+0000] {processor.py:157} INFO - Started process (PID=58) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:26:17.820+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:26:17.821+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:26:17.820+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:26:17.846+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:26:17.884+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:26:17.884+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:26:17.919+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:26:17.919+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:26:18.005+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.191 seconds
+[2025-04-04T14:26:48.162+0000] {processor.py:157} INFO - Started process (PID=59) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:26:48.164+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:26:48.166+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:26:48.165+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:26:48.191+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:26:48.225+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:26:48.225+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:26:48.257+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:26:48.257+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:26:48.314+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.156 seconds
+[2025-04-04T14:27:19.420+0000] {processor.py:157} INFO - Started process (PID=60) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:27:19.422+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:27:19.423+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:27:19.423+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:27:19.448+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:27:19.493+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:27:19.492+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:27:19.532+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:27:19.532+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:27:19.593+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.176 seconds
+[2025-04-04T14:27:50.816+0000] {processor.py:157} INFO - Started process (PID=61) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:27:50.818+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:27:50.819+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:27:50.818+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:27:50.844+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:27:50.878+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:27:50.877+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:27:50.912+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:27:50.912+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:27:50.986+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.173 seconds
+[2025-04-04T14:28:21.533+0000] {processor.py:157} INFO - Started process (PID=62) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:28:21.534+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:28:21.536+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:28:21.535+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:28:21.562+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:28:21.602+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:28:21.602+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:28:21.637+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:28:21.637+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:28:21.716+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.187 seconds
+[2025-04-04T14:28:52.316+0000] {processor.py:157} INFO - Started process (PID=63) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:28:52.319+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:28:52.323+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:28:52.323+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:28:52.357+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:28:52.405+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:28:52.405+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:28:52.440+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:28:52.440+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:28:52.509+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.200 seconds
+[2025-04-04T14:29:22.835+0000] {processor.py:157} INFO - Started process (PID=64) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:29:22.837+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:29:22.838+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:29:22.837+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:29:22.864+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:29:22.898+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:29:22.898+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:29:22.939+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:29:22.938+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:29:23.010+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.179 seconds
+[2025-04-04T14:34:18.188+0000] {processor.py:157} INFO - Started process (PID=22) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:34:18.211+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:34:18.213+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:34:18.213+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:34:18.308+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:34:18.383+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:34:18.382+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:34:18.479+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:34:18.479+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:34:18.716+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.534 seconds
+[2025-04-04T14:34:51.667+0000] {processor.py:157} INFO - Started process (PID=23) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:34:51.670+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:34:51.685+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:34:51.678+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:34:51.797+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:34:52.023+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:34:52.012+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:34:52.224+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:34:52.224+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:34:52.465+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.822 seconds
+[2025-04-04T14:35:22.681+0000] {processor.py:157} INFO - Started process (PID=24) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:35:22.690+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:35:22.698+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:35:22.693+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:35:22.848+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:35:22.991+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:35:22.991+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:35:23.170+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:35:23.169+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:35:23.291+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.645 seconds
+[2025-04-04T14:35:53.936+0000] {processor.py:157} INFO - Started process (PID=25) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:35:53.938+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:35:53.940+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:35:53.940+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:35:53.989+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:35:54.041+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:35:54.041+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:35:54.091+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:35:54.091+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:35:54.162+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.229 seconds
+[2025-04-04T14:36:24.377+0000] {processor.py:157} INFO - Started process (PID=53) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:36:24.379+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:36:24.380+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:36:24.380+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:36:24.406+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:36:24.443+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:36:24.442+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:36:24.479+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:36:24.479+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:36:24.548+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.176 seconds
+[2025-04-04T14:36:55.016+0000] {processor.py:157} INFO - Started process (PID=54) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:36:55.018+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:36:55.019+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:36:55.019+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:36:55.045+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:36:55.083+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:36:55.082+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:36:55.119+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:36:55.119+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:36:55.182+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.169 seconds
+[2025-04-04T14:38:26.704+0000] {processor.py:157} INFO - Started process (PID=21) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:38:26.706+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:38:26.711+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:38:26.710+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:38:26.824+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:38:26.878+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:38:26.877+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:38:27.071+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:38:27.051+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:38:27.206+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.525 seconds
+[2025-04-04T14:38:58.212+0000] {processor.py:157} INFO - Started process (PID=22) to work on /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:38:58.216+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/spark_distributed_etl.py for tasks to queue
+[2025-04-04T14:38:58.226+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:38:58.226+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:38:58.297+0000] {processor.py:839} INFO - DAG(s) dict_keys(['daily_distributed_spark_etl']) retrieved from /opt/airflow/dags/spark_distributed_etl.py
+[2025-04-04T14:38:58.473+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:38:58.472+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-04-04T14:38:58.561+0000] {logging_mixin.py:151} INFO - [2025-04-04T14:38:58.561+0000] {dag.py:3722} INFO - Setting next_dagrun for daily_distributed_spark_etl to 2025-04-04T00:00:00+00:00, run_after=2025-04-05T00:00:00+00:00
+[2025-04-04T14:38:58.719+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/spark_distributed_etl.py took 0.512 seconds
